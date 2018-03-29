@@ -1,5 +1,5 @@
 # avi2mkv [![Project Status](http://stillmaintained.com/igalarzab/avi2mkv.png)](http://stillmaintained.com/igalarzab/avi2mkv)
-
+## https://github.com/igalarzab/avi2mkv
 ## What it does.
 
 Simple (stupid) script to transform an AVI video to matroska MKV.
